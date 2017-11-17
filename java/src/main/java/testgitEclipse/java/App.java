@@ -3,7 +3,7 @@ package testgitEclipse.java;
 /**
  * Hello world! 
  *
- * Test Change
+ * Test Change SVN Test
  */
 public class App 
 {
